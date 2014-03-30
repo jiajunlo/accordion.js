@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Demo</title>
+	<link rel="stylesheet" href="css/style.css">
+	<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+	<script type="text/javascript" src="js/accordion.js"></script>
+</head>
+<body>
+	<div id="demo">
+		<h3>Demo:</h3>
+	</div>
+
+	<script type="text/javascript">
+		$.as({
+			id: "demo",
+			folder: "images",
+			images: ["yam_1.jpg", "yam_2.jpg", "yam_3.jpg", "yam_4.jpg", "yam_5.jpg"],
+			speed: 2000,
+			imgWidth: 700
+		});
+	</script>
+</body>
+</html>
