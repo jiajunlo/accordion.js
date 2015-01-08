@@ -23,4 +23,4 @@ And then that you can create the slider now:
     	});
     </script>
     	
-Click here to see the [demo](http://www.jiajunlo.com/demo/accordion.js)
+Click here to see the [demo](http://jiajunlo.github.com/accordion.js)
