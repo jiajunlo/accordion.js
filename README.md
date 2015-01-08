@@ -12,7 +12,7 @@ Firstly, you should include the js file:
 And then that you can create the slider now:
 
 ###
-    <script type="text/javascript" src="js/jquery-1.11.0.min.js">
+    <script type="text/javascript">
         $.as({
     		id: "demo",         //the id of the slider container
     		folder: "images",   //the images to store the slider images, default: ""
